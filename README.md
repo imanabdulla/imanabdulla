@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Game Developmenet especiallized in Gameplay Programming with Unity Engine technology.
 - 💞️ I’m looking to collaborate on the industry of building serious, educational or any typs of games or interactive applications which add a value in the world.
 - 📫 How to reach me?
-Linkedin Account: https://www.linkedin.com/in/imanabdulla/
-
-Email: emanabdallah.aim@gmail.com
+    Linkedin Account: 
+    https://www.linkedin.com/in/imanabdulla/
+    Email:
+    emanabdallah.aim@gmail.com
 
 
 <!---
